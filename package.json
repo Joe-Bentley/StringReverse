@@ -1,0 +1,23 @@
+{
+  "name": "StringReverse",
+  "version": "1.0.0",
+  "description": "StringReverse",
+  "main": "reverseString.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joe-Bentley/StringReverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joe-Bentley/StringReverse/issues"
+  },
+  "homepage": "https://github.com/Joe-Bentley/StringReverse#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
